@@ -1,0 +1,7 @@
+numpy
+pandas
+tqdm
+sentence-transformers
+faiss-cpu
+streamlit
+requests
